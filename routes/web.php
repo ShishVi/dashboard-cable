@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AppController;
+use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 
@@ -22,5 +23,10 @@ Route::prefix('user')->group(function(){
     Route::post('registration', [UserController::class, 'store'])->name('user.store');
     Route::get('login', [UserController::class, 'loginPage'])->name('user.login');
     Route::post('login', [UserController::class, 'authUser'])->name('user.auth');
+    Route::post('logout', [UserController::class, 'logout'])->name('user.logout');
 });
+
+
+// запись категорий и продуктов из json файлов
+Route::get('create-categories-json', [CategoryController::class, 'store']);
 

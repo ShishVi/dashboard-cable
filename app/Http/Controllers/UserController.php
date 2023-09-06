@@ -54,4 +54,13 @@ class UserController extends Controller
             'email' => 'Email или пароль введен не верный!'
         ])->onlyInput('email');
    }
+
+   public function logout(Request $request)
+   {
+        Auth::logout();
+        $request->session()->invalidate();
+        $request->session()->regenerateToken();
+        return redirect()->intended('/');
+
+   }
 }

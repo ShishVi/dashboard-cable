@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AppController;
 use App\Http\Controllers\CategoryController;
+use App\Http\Controllers\ProductController;
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 
@@ -27,6 +28,18 @@ Route::prefix('user')->group(function(){
 });
 
 
-// запись категорий и продуктов из json файлов
-Route::get('create-categories-json', [CategoryController::class, 'store']);
+
+
+Route::prefix('category')->group(function(){
+    Route::get('create-categories-json', [CategoryController::class, 'store']); // запись категорий из json файла
+    Route::get('/', [CategoryController::class, 'index'])->name('categories.list');
+    Route::delete('delete/{id}', [CategoryController::class, 'delete'])->name('category.delete');
+});
+
+
+Route::prefix('product')->group(function(){
+    Route::get('create-products-json', [ProductController::class, 'store']); // запись в таблицу products из json файла
+    Route::get('edit',[ProductController::class, 'edit'])->name('edit.product');
+    
+});
 

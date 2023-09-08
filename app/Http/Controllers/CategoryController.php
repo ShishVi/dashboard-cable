@@ -9,6 +9,15 @@ use Illuminate\Support\Facades\Storage;
 
 class CategoryController extends Controller
 {
+
+    public function index()
+    {
+        
+        return view('admin.category.list-categories', [
+            'categories' => Category::all()->sortBy('category'),
+        ]);
+    }
+
    public function store()
    {
         $categories = File::json('C:\OpenServer\domains\cable.loc\public\assets\json\categories.json');
@@ -23,6 +32,21 @@ class CategoryController extends Controller
             }           
            
         };
+
+        return redirect()->intended('/');
+    }
+
+    public function edit($categoryId)
+    {
+        return [];
+    }
+
+    public function delete($categoryId)
+    {
+        $category = Category::find($categoryId);
+        $category->delete();
+        
+        return back();
     }
         
 }

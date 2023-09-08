@@ -1,0 +1,737 @@
+[
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x150 + 1x50 380\/660-2",
+        "price": "6\u00a0564.04 \u0440\u0443\u0431.",
+        "quantity": "704 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/1.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x120 380\/660-2",
+        "price": "6\u00a0335.34 \u0440\u0443\u0431.",
+        "quantity": "686 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/2.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x95 380\/660-2",
+        "price": "6\u00a0212.16 \u0440\u0443\u0431.",
+        "quantity": "1455 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/3.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x120 + 1x35 380\/660-2",
+        "price": "5\u00a0303.36 \u0440\u0443\u0431.",
+        "quantity": "63 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/4.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x95 380\/660-2",
+        "price": "5\u00a0096.89 \u0440\u0443\u0431.",
+        "quantity": "110 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/5.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x70 380\/660-2",
+        "price": "4\u00a0898.57 \u0440\u0443\u0431.",
+        "quantity": "665 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/6.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x95 -0,66",
+        "price": "4\u00a0441.60 \u0440\u0443\u0431.",
+        "quantity": "12 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/7.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x95 + 1x35 380\/660-2",
+        "price": "4\u00a0218.53 \u0440\u0443\u0431.",
+        "quantity": "1350 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/8.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 1x240 -0,66",
+        "price": "4\u00a0009.72 \u0440\u0443\u0431.",
+        "quantity": "480 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/9.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x70 380\/660-2",
+        "price": "3\u00a0739.17 \u0440\u0443\u0431.",
+        "quantity": "631 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/10.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x70 -0,66",
+        "price": "3\u00a0506.89 \u0440\u0443\u0431.",
+        "quantity": "2 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/11.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x50 380\/660-2",
+        "price": "3\u00a0422.72 \u0440\u0443\u0431.",
+        "quantity": "1463 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/12.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 1x240 380\/660-2",
+        "price": "3\u00a0138.31 \u0440\u0443\u0431.",
+        "quantity": "1484 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/13.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 1x185 -0,66",
+        "price": "3\u00a0069.46 \u0440\u0443\u0431.",
+        "quantity": "957 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/14.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 4x50 380\/660-2",
+        "price": "3\u00a0062.88 \u0440\u0443\u0431.",
+        "quantity": "975 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/15.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x95 + 1x35 -0,66",
+        "price": "2\u00a0850.47 \u0440\u0443\u0431.",
+        "quantity": "10 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/16.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x50 380\/660-2",
+        "price": "2\u00a0754.16 \u0440\u0443\u0431.",
+        "quantity": "64 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/17.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 3x50 + 1x16 380\/660-2",
+        "price": "2\u00a0576.64 \u0440\u0443\u0431.",
+        "quantity": "1351 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/18.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x35 380\/660-2",
+        "price": "2\u00a0398.88 \u0440\u0443\u0431.",
+        "quantity": "2130 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/19.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 1x185 380\/660-2",
+        "price": "2\u00a0334.95 \u0440\u0443\u0431.",
+        "quantity": "536 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/20.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x50 -0,66",
+        "price": "2\u00a0308.71 \u0440\u0443\u0431.",
+        "quantity": "15 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/21.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x50 + 1x16 380\/660-2",
+        "price": "2\u00a0286.61 \u0440\u0443\u0431.",
+        "quantity": "212 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/22.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 4x35 380\/660-2",
+        "price": "2\u00a0150.37 \u0440\u0443\u0431.",
+        "quantity": "1268 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/23.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 1x150 380\/660-2",
+        "price": "2\u00a0132.97 \u0440\u0443\u0431.",
+        "quantity": "1025 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/24.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 1x120 -0,66",
+        "price": "2\u00a0028.57 \u0440\u0443\u0431.",
+        "quantity": "44 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/25.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 3x50 + 1x16 -0,66",
+        "price": "1\u00a0992.26 \u0440\u0443\u0431.",
+        "quantity": "30 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/26.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x35 380\/660-2",
+        "price": "1\u00a0911.76 \u0440\u0443\u0431.",
+        "quantity": "641 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/27.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 4x25 -0,66",
+        "price": "1\u00a0873.88 \u0440\u0443\u0431.",
+        "quantity": "1298 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/28.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 5x25 380\/660-2",
+        "price": "1\u00a0861.46 \u0440\u0443\u0431.",
+        "quantity": "1364 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/29.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 3x35 + 1x10 380\/660-2",
+        "price": "1\u00a0774.18 \u0440\u0443\u0431.",
+        "quantity": "917 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/30.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 1x120 380\/660-2",
+        "price": "1\u00a0708.10 \u0440\u0443\u0431.",
+        "quantity": "254 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/31.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x25 380\/660-2",
+        "price": "1\u00a0675.33 \u0440\u0443\u0431.",
+        "quantity": "5793 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/32.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 1x120 380\/660-2",
+        "price": "1\u00a0579.22 \u0440\u0443\u0431.",
+        "quantity": "1374 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/33.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x35 + 1x10 380\/660-2",
+        "price": "1\u00a0573.21 \u0440\u0443\u0431.",
+        "quantity": "2104 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/34.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 4x25 380\/660-2",
+        "price": "1\u00a0571.09 \u0440\u0443\u0431.",
+        "quantity": "420 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/35.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 1x95 380\/660-2",
+        "price": "1\u00a0424.18 \u0440\u0443\u0431.",
+        "quantity": "2858 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/36.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x25 380\/660-2",
+        "price": "1\u00a0371.22 \u0440\u0443\u0431.",
+        "quantity": "3144 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/37.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 3x25 + 1x10 380\/660-2",
+        "price": "1\u00a0267.15 \u0440\u0443\u0431.",
+        "quantity": "930 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/38.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 5x16 380\/660-2",
+        "price": "1\u00a0244.49 \u0440\u0443\u0431.",
+        "quantity": "1169 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/39.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 1x95 380\/660-2",
+        "price": "1\u00a0240.04 \u0440\u0443\u0431.",
+        "quantity": "895 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/40.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 1x70 -0,66",
+        "price": "1\u00a0219.32 \u0440\u0443\u0431.",
+        "quantity": "283 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/41.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 4x16 -0,66",
+        "price": "1\u00a0205.47 \u0440\u0443\u0431.",
+        "quantity": "914 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/42.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x25 + 1x10 380\/660-2",
+        "price": "1\u00a0196.01 \u0440\u0443\u0431.",
+        "quantity": "1029 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/43.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 1x95 380\/660-2",
+        "price": "1\u00a0176.78 \u0440\u0443\u0431.",
+        "quantity": "1428 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/44.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x16 380\/660-2",
+        "price": "1\u00a0090.53 \u0440\u0443\u0431.",
+        "quantity": "5906 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/45.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 5x16 380\/660-2",
+        "price": "1\u00a0090.53 \u0440\u0443\u0431.",
+        "quantity": "909 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/46.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 1x70 380\/660-2",
+        "price": "1\u00a0005.81 \u0440\u0443\u0431.",
+        "quantity": "4528 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/47.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 4x16 380\/660-2",
+        "price": "1\u00a0004.10 \u0440\u0443\u0431.",
+        "quantity": "1405 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/48.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 4x16 -0,66",
+        "price": "946.18 \u0440\u0443\u0431.",
+        "quantity": "33 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/49.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 1x70 380\/660-2",
+        "price": "928.81 \u0440\u0443\u0431.",
+        "quantity": "3939 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/50.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 1x70 380\/660-2",
+        "price": "919.23 \u0440\u0443\u0431.",
+        "quantity": "1207 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/51.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x16 380\/660-2",
+        "price": "881.49 \u0440\u0443\u0431.",
+        "quantity": "2836 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/52.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 4x16 380\/660-2",
+        "price": "881.49 \u0440\u0443\u0431.",
+        "quantity": "886 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/53.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 1x50 -0,66",
+        "price": "879.63 \u0440\u0443\u0431.",
+        "quantity": "549 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/54.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 5x10 380\/660-2",
+        "price": "856.35 \u0440\u0443\u0431.",
+        "quantity": "664 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/55.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 3x16 + 1x6 380\/660-2",
+        "price": "847.13 \u0440\u0443\u0431.",
+        "quantity": "297 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/56.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 4x10 -0,66",
+        "price": "786.27 \u0440\u0443\u0431.",
+        "quantity": "105 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/57.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x16 + 1x6 380\/660-2",
+        "price": "778.05 \u0440\u0443\u0431.",
+        "quantity": "757 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/58.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 1x50 380\/660-2",
+        "price": "750.37 \u0440\u0443\u0431.",
+        "quantity": "1617 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/59.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x10 380\/660-2",
+        "price": "731.69 \u0440\u0443\u0431.",
+        "quantity": "2855 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/60.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 5x10 380\/660-2",
+        "price": "709.06 \u0440\u0443\u0431.",
+        "quantity": "402 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/61.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 1x50 380\/660-2",
+        "price": "681.13 \u0440\u0443\u0431.",
+        "quantity": "705 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/62.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 4x10 380\/660-2",
+        "price": "680.92 \u0440\u0443\u0431.",
+        "quantity": "241 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/63.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 1x50 380\/660-2",
+        "price": "674.03 \u0440\u0443\u0431.",
+        "quantity": "1144 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/64.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 5x6 -0,66",
+        "price": "630.01 \u0440\u0443\u0431.",
+        "quantity": "97 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/65.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 1x35 -0,66",
+        "price": "628.29 \u0440\u0443\u0431.",
+        "quantity": "118 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/66.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 3x10 + 1x6 380\/660-2",
+        "price": "606.60 \u0440\u0443\u0431.",
+        "quantity": "1875 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/67.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u0420\u041f\u0428 10x2,5 -0,38",
+        "price": "602.23 \u0440\u0443\u0431.",
+        "quantity": "529 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/68.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x10 380\/660-2",
+        "price": "566.86 \u0440\u0443\u0431.",
+        "quantity": "5615 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/69.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 4x10 380\/660-2",
+        "price": "566.86 \u0440\u0443\u0431.",
+        "quantity": "499 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/70.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 4x6 -0,66",
+        "price": "538.40 \u0440\u0443\u0431.",
+        "quantity": "689 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/71.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x10 + 1x6 380\/660-2",
+        "price": "535.37 \u0440\u0443\u0431.",
+        "quantity": "301 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/72.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u0420\u041f\u0428 14x1,5 -0,38",
+        "price": "533.30 \u0440\u0443\u0431.",
+        "quantity": "478 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/73.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 3x6 + 1x6-0,66",
+        "price": "525.87 \u0440\u0443\u0431.",
+        "quantity": "1049 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/74.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 1x35 380\/660-2",
+        "price": "522.24 \u0440\u0443\u0431.",
+        "quantity": "366 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/75.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 5x6 380\/660-3",
+        "price": "507.05 \u0440\u0443\u0431.",
+        "quantity": "100 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/76.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 1x35 380\/660-2",
+        "price": "473.45 \u0440\u0443\u0431.",
+        "quantity": "4927 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/77.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 1x35 380\/660-2",
+        "price": "468.46 \u0440\u0443\u0431.",
+        "quantity": "60 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/78.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 1x25 -0,66",
+        "price": "454.10 \u0440\u0443\u0431.",
+        "quantity": "40 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/79.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x10 380\/660-2",
+        "price": "453.34 \u0440\u0443\u0431.",
+        "quantity": "96 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/80.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x6 380\/660-3",
+        "price": "436.52 \u0440\u0443\u0431.",
+        "quantity": "572 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/81.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 5x6 380\/660-3",
+        "price": "434.23 \u0440\u0443\u0431.",
+        "quantity": "3794 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/82.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u0420\u041f\u0428 7x2,5 -0,38",
+        "price": "423.30 \u0440\u0443\u0431.",
+        "quantity": "730 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/83.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 3x6 -0,66",
+        "price": "402.71 \u0440\u0443\u0431.",
+        "quantity": "237 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/84.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 1x35 -0,66",
+        "price": "400.38 \u0440\u0443\u0431.",
+        "quantity": "36 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/85.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u0420\u041f\u0428 10x1,5 -0,38",
+        "price": "399.76 \u0440\u0443\u0431.",
+        "quantity": "54 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/86.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 3x6 + 1x4 380\/660-3",
+        "price": "382.89 \u0440\u0443\u0431.",
+        "quantity": "1342 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/87.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 1x25 380\/660-2",
+        "price": "378.20 \u0440\u0443\u0431.",
+        "quantity": "692 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/88.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x10 -0,66",
+        "price": "372.13 \u0440\u0443\u0431.",
+        "quantity": "16 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/89.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 4x4 -0,66",
+        "price": "361.67 \u0440\u0443\u0431.",
+        "quantity": "575 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/90.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 5x4 380\/660-3",
+        "price": "358.34 \u0440\u0443\u0431.",
+        "quantity": "1786 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/91.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x6 380\/660-3",
+        "price": "351.59 \u0440\u0443\u0431.",
+        "quantity": "1232 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/92.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 4x6 380\/660-3",
+        "price": "346.95 \u0440\u0443\u0431.",
+        "quantity": "3288 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/93.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 1x25 380\/660-2",
+        "price": "334.31 \u0440\u0443\u0431.",
+        "quantity": "2354 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/94.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 1x25 380\/660-2",
+        "price": "334.31 \u0440\u0443\u0431.",
+        "quantity": "4448 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/95.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 5x2,5 -0,66",
+        "price": "327.65 \u0440\u0443\u0431.",
+        "quantity": "591 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/96.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x6 + 1x4 380\/660-3",
+        "price": "326.73 \u0440\u0443\u0431.",
+        "quantity": "829 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/97.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 5x4 380\/660-3",
+        "price": "303.78 \u0440\u0443\u0431.",
+        "quantity": "733 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/98.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 3x4 -0,66",
+        "price": "294.75 \u0440\u0443\u0431.",
+        "quantity": "302 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/99.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f 5x4 380\/660-3",
+        "price": "294.29 \u0440\u0443\u0431.",
+        "quantity": "3897 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/100.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u0420\u041f\u0428 7x1,5 -0,38",
+        "price": "266.17 \u0440\u0443\u0431.",
+        "quantity": "382 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/101.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 3x6 380\/660-3",
+        "price": "262.35 \u0440\u0443\u0431.",
+        "quantity": "1719 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/102.png",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u041d 4x2,5 -0,66",
+        "price": "248.98 \u0440\u0443\u0431.",
+        "quantity": "982 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/103.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413 1x16 380\/660-2",
+        "price": "246.66 \u0440\u0443\u0431.",
+        "quantity": "2525 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/104.jpg",
+        "category_id": 7
+    },
+    {
+        "title": "\u041a\u0413\u0442\u043f-\u0425\u041b 4x4 380\/660-3",
+        "price": "238.96 \u0440\u0443\u0431.",
+        "quantity": "6773 \u043c",
+        "image": "kabel_rezinovoy_izolyatsii\/105.jpg",
+        "category_id": 7
+    }
+]

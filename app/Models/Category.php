@@ -15,10 +15,17 @@ class Category extends Model
         "category",
     ];
 
+    public function products()
+    {
+        return $this->hasMany(Product::class);
+    }
+
     public function getSlugOptions() : SlugOptions
     {
         return SlugOptions::create()
             ->generateSlugsFrom('category')
             ->saveSlugsTo('slug');
     }
+
+    
 }

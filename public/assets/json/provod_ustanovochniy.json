@@ -1,0 +1,737 @@
+[
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x240 \u0431\u0435\u043b.",
+        "price": "2\u00a0872.84 \u0440\u0443\u0431.",
+        "quantity": "2685 \u043c",
+        "image": "provod_ustanovochniy\/1.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x240 \u0436\/\u0437",
+        "price": "2\u00a0872.84 \u0440\u0443\u0431.",
+        "quantity": "841 \u043c",
+        "image": "provod_ustanovochniy\/2.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x185 \u0436\/\u0437",
+        "price": "2\u00a0206.13 \u0440\u0443\u0431.",
+        "quantity": "1209 \u043c",
+        "image": "provod_ustanovochniy\/3.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x185 \u0431\u0435\u043b.",
+        "price": "2\u00a0206.13 \u0440\u0443\u0431.",
+        "quantity": "2369 \u043c",
+        "image": "provod_ustanovochniy\/4.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x150 \u0447\u0435\u0440\u043d.",
+        "price": "1\u00a0907.55 \u0440\u0443\u0431.",
+        "quantity": "219 \u043c",
+        "image": "provod_ustanovochniy\/5.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x150 \u0436\/\u0437",
+        "price": "1\u00a0907.55 \u0440\u0443\u0431.",
+        "quantity": "1480 \u043c",
+        "image": "provod_ustanovochniy\/6.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x150 \u0431\u0435\u043b.",
+        "price": "1\u00a0907.55 \u0440\u0443\u0431.",
+        "quantity": "1707 \u043c",
+        "image": "provod_ustanovochniy\/7.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x150 \u0433\u043e\u043b.",
+        "price": "1\u00a0869.40 \u0440\u0443\u0431.",
+        "quantity": "646 \u043c",
+        "image": "provod_ustanovochniy\/8.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x185 \u0433\u043e\u043b.",
+        "price": "1\u00a0726.24 \u0440\u0443\u0431.",
+        "quantity": "15 \u043c",
+        "image": "provod_ustanovochniy\/9.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x120 \u0431\u0435\u043b.",
+        "price": "1\u00a0449.12 \u0440\u0443\u0431.",
+        "quantity": "419 \u043c",
+        "image": "provod_ustanovochniy\/10.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x120 \u0447\u0435\u0440\u043d.",
+        "price": "1\u00a0449.12 \u0440\u0443\u0431.",
+        "quantity": "444 \u043c",
+        "image": "provod_ustanovochniy\/11.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x120 \u0436\/\u0437",
+        "price": "1\u00a0449.12 \u0440\u0443\u0431.",
+        "quantity": "793 \u043c",
+        "image": "provod_ustanovochniy\/12.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x120 \u0433\u043e\u043b.",
+        "price": "1\u00a0420.14 \u0440\u0443\u0431.",
+        "quantity": "778 \u043c",
+        "image": "provod_ustanovochniy\/13.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x95 \u0431\u0435\u043b.",
+        "price": "1\u00a0163.04 \u0440\u0443\u0431.",
+        "quantity": "2921 \u043c",
+        "image": "provod_ustanovochniy\/14.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x95 \u0436\/\u0437",
+        "price": "1\u00a0163.04 \u0440\u0443\u0431.",
+        "quantity": "1768 \u043c",
+        "image": "provod_ustanovochniy\/15.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x95 \u0447\u0435\u0440\u043d.",
+        "price": "1\u00a0163.04 \u0440\u0443\u0431.",
+        "quantity": "885 \u043c",
+        "image": "provod_ustanovochniy\/16.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x95 \u0431\u0435\u043b. (\u0420\u042d\u041a-PRYSMIAN)",
+        "price": "1\u00a0150.69 \u0440\u0443\u0431.",
+        "quantity": "30 \u043c",
+        "image": "provod_ustanovochniy\/17.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x95 \u0433\u043e\u043b.",
+        "price": "1\u00a0128.15 \u0440\u0443\u0431.",
+        "quantity": "1349 \u043c",
+        "image": "provod_ustanovochniy\/18.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x120 \u0433\u043e\u043b.",
+        "price": "1\u00a0113.14 \u0440\u0443\u0431.",
+        "quantity": "56 \u043c",
+        "image": "provod_ustanovochniy\/19.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x120 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "1\u00a0104.77 \u0440\u0443\u0431.",
+        "quantity": "51 \u043c",
+        "image": "provod_ustanovochniy\/20.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x95 \u0433\u043e\u043b.",
+        "price": "883.27 \u0440\u0443\u0431.",
+        "quantity": "33 \u043c",
+        "image": "provod_ustanovochniy\/21.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x70 \u0431\u0435\u043b.",
+        "price": "876.61 \u0440\u0443\u0431.",
+        "quantity": "3961 \u043c",
+        "image": "provod_ustanovochniy\/22.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x70 \u0447\u0435\u0440\u043d.",
+        "price": "876.61 \u0440\u0443\u0431.",
+        "quantity": "5373 \u043c",
+        "image": "provod_ustanovochniy\/23.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x70 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "876.61 \u0440\u0443\u0431.",
+        "quantity": "891 \u043c",
+        "image": "provod_ustanovochniy\/24.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x70 \u0436\/\u0437",
+        "price": "841.55 \u0440\u0443\u0431.",
+        "quantity": "1891 \u043c",
+        "image": "provod_ustanovochniy\/25.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x70 \u0433\u043e\u043b.",
+        "price": "841.55 \u0440\u0443\u0431.",
+        "quantity": "1089 \u043c",
+        "image": "provod_ustanovochniy\/26.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x70 \u0436\/\u0437 (\u0420\u042d\u041a-PRYSMIAN)",
+        "price": "822.77 \u0440\u0443\u0431.",
+        "quantity": "182 \u043c",
+        "image": "provod_ustanovochniy\/27.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x50 \u0447\u0435\u0440\u043d.",
+        "price": "606.62 \u0440\u0443\u0431.",
+        "quantity": "508 \u043c",
+        "image": "provod_ustanovochniy\/28.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x50 \u0433\u043e\u043b.",
+        "price": "606.62 \u0440\u0443\u0431.",
+        "quantity": "185 \u043c",
+        "image": "provod_ustanovochniy\/29.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x50 \u0431\u0435\u043b.",
+        "price": "606.62 \u0440\u0443\u0431.",
+        "quantity": "7076 \u043c",
+        "image": "provod_ustanovochniy\/30.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x50 \u0436\/\u0437",
+        "price": "606.62 \u0440\u0443\u0431.",
+        "quantity": "2558 \u043c",
+        "image": "provod_ustanovochniy\/31.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x35 \u0436\/\u0437",
+        "price": "429.30 \u0440\u0443\u0431.",
+        "quantity": "1939 \u043c",
+        "image": "provod_ustanovochniy\/32.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x35 \u0431\u0435\u043b.",
+        "price": "429.30 \u0440\u0443\u0431.",
+        "quantity": "4709 \u043c",
+        "image": "provod_ustanovochniy\/33.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x35 \u0433\u043e\u043b.",
+        "price": "429.30 \u0440\u0443\u0431.",
+        "quantity": "809 \u043c",
+        "image": "provod_ustanovochniy\/34.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x35 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "424.21 \u0440\u0443\u0431.",
+        "quantity": "832 \u043c",
+        "image": "provod_ustanovochniy\/35.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x35 \u0447\u0435\u0440\u043d.",
+        "price": "424.21 \u0440\u0443\u0431.",
+        "quantity": "3599 \u043c",
+        "image": "provod_ustanovochniy\/36.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x35 \u0431\u0435\u043b.",
+        "price": "424.21 \u0440\u0443\u0431.",
+        "quantity": "3969 \u043c",
+        "image": "provod_ustanovochniy\/37.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x35 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "420.72 \u0440\u0443\u0431.",
+        "quantity": "1582 \u043c",
+        "image": "provod_ustanovochniy\/38.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x35 \u0447\u0435\u0440\u043d.",
+        "price": "416.43 \u0440\u0443\u0431.",
+        "quantity": "9979 \u043c",
+        "image": "provod_ustanovochniy\/39.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x35 \u0433\u043e\u043b.",
+        "price": "415.73 \u0440\u0443\u0431.",
+        "quantity": "1909 \u043c",
+        "image": "provod_ustanovochniy\/40.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x35 \u0436\/\u0437",
+        "price": "415.73 \u0440\u0443\u0431.",
+        "quantity": "2117 \u043c",
+        "image": "provod_ustanovochniy\/41.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LSLTX 1x25 \u0436\/\u0437",
+        "price": "396.38 \u0440\u0443\u0431.",
+        "quantity": "5925 \u043c",
+        "image": "provod_ustanovochniy\/42.png",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LSLTX 1x25 \u0431\u0435\u043b",
+        "price": "340.82 \u0440\u0443\u0431.",
+        "quantity": "3106 \u043c",
+        "image": "provod_ustanovochniy\/43.png",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412\u043d\u0433(\u0410)-LS 1x25 \u0431\u0435\u043b.",
+        "price": "333.30 \u0440\u0443\u0431.",
+        "quantity": "643 \u043c",
+        "image": "provod_ustanovochniy\/44.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412\u043d\u0433(\u0410)-LS 1x25 \u0436\/\u0437",
+        "price": "327.74 \u0440\u0443\u0431.",
+        "quantity": "2651 \u043c",
+        "image": "provod_ustanovochniy\/45.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x25 \u0431\u0435\u043b.",
+        "price": "313.45 \u0440\u0443\u0431.",
+        "quantity": "10229 \u043c",
+        "image": "provod_ustanovochniy\/46.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x25 \u0436\/\u0437",
+        "price": "313.45 \u0440\u0443\u0431.",
+        "quantity": "27663 \u043c",
+        "image": "provod_ustanovochniy\/47.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x25 \u0433\u043e\u043b.",
+        "price": "309.73 \u0440\u0443\u0431.",
+        "quantity": "2072 \u043c",
+        "image": "provod_ustanovochniy\/48.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x25 \u0447\u0435\u0440\u043d.",
+        "price": "309.73 \u0440\u0443\u0431.",
+        "quantity": "6586 \u043c",
+        "image": "provod_ustanovochniy\/49.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x25 \u0436\/\u0437",
+        "price": "309.73 \u0440\u0443\u0431.",
+        "quantity": "19523 \u043c",
+        "image": "provod_ustanovochniy\/50.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x25 \u0431\u0435\u043b.",
+        "price": "309.73 \u0440\u0443\u0431.",
+        "quantity": "8836 \u043c",
+        "image": "provod_ustanovochniy\/51.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x25 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "309.73 \u0440\u0443\u0431.",
+        "quantity": "2225 \u043c",
+        "image": "provod_ustanovochniy\/52.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x25 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "307.18 \u0440\u0443\u0431.",
+        "quantity": "5222 \u043c",
+        "image": "provod_ustanovochniy\/53.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x25 \u0433\u043e\u043b.",
+        "price": "307.18 \u0440\u0443\u0431.",
+        "quantity": "2839 \u043c",
+        "image": "provod_ustanovochniy\/54.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x25 \u0447\u0435\u0440\u043d.",
+        "price": "307.18 \u0440\u0443\u0431.",
+        "quantity": "7029 \u043c",
+        "image": "provod_ustanovochniy\/55.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412 1x50 \u0433\u043e\u043b.",
+        "price": "288.56 \u0440\u0443\u0431.",
+        "quantity": "55 \u043c",
+        "image": "provod_ustanovochniy\/56.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LSLTX 1x16 \u0431\u0435\u043b",
+        "price": "216.12 \u0440\u0443\u0431.",
+        "quantity": "5275 \u043c",
+        "image": "provod_ustanovochniy\/57.png",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LSLTX 1x16 \u0436\/\u0437",
+        "price": "216.12 \u0440\u0443\u0431.",
+        "quantity": "6285 \u043c",
+        "image": "provod_ustanovochniy\/58.png",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x16 \u0436\/\u0437",
+        "price": "215.92 \u0440\u0443\u0431.",
+        "quantity": "4658 \u043c",
+        "image": "provod_ustanovochniy\/59.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x16 \u0431\u0435\u043b.",
+        "price": "210.85 \u0440\u0443\u0431.",
+        "quantity": "905 \u043c",
+        "image": "provod_ustanovochniy\/60.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x16 \u0431\u0435\u043b.",
+        "price": "209.25 \u0440\u0443\u0431.",
+        "quantity": "2975 \u043c",
+        "image": "provod_ustanovochniy\/61.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412\u043d\u0433(\u0410)-LS 1x16 \u0431\u0435\u043b.",
+        "price": "208.21 \u0440\u0443\u0431.",
+        "quantity": "866 \u043c",
+        "image": "provod_ustanovochniy\/62.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x16 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "206.72 \u0440\u0443\u0431.",
+        "quantity": "343 \u043c",
+        "image": "provod_ustanovochniy\/63.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x16 \u0447\u0435\u0440\u043d.",
+        "price": "206.72 \u0440\u0443\u0431.",
+        "quantity": "64 \u043c",
+        "image": "provod_ustanovochniy\/64.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x16 \u0447\u0435\u0440\u043d.",
+        "price": "204.07 \u0440\u0443\u0431.",
+        "quantity": "1380 \u043c",
+        "image": "provod_ustanovochniy\/65.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x16 \u0433\u043e\u043b.",
+        "price": "202.58 \u0440\u0443\u0431.",
+        "quantity": "2968 \u043c",
+        "image": "provod_ustanovochniy\/66.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x16 \u0436\/\u0437",
+        "price": "202.58 \u0440\u0443\u0431.",
+        "quantity": "3365 \u043c",
+        "image": "provod_ustanovochniy\/67.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x16 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "199.98 \u0440\u0443\u0431.",
+        "quantity": "1197 \u043c",
+        "image": "provod_ustanovochniy\/68.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x16 \u0433\u043e\u043b.",
+        "price": "199.98 \u0440\u0443\u0431.",
+        "quantity": "2721 \u043c",
+        "image": "provod_ustanovochniy\/69.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LSLTX 1x10 \u0436\/\u0437",
+        "price": "139.50 \u0440\u0443\u0431.",
+        "quantity": "2545 \u043c",
+        "image": "provod_ustanovochniy\/70.png",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LSLTX 1x10 \u0431\u0435\u043b",
+        "price": "139.50 \u0440\u0443\u0431.",
+        "quantity": "4400 \u043c",
+        "image": "provod_ustanovochniy\/71.png",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x10 \u0431\u0435\u043b.",
+        "price": "137.47 \u0440\u0443\u0431.",
+        "quantity": "790 \u043c",
+        "image": "provod_ustanovochniy\/72.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x10 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "137.47 \u0440\u0443\u0431.",
+        "quantity": "370 \u043c",
+        "image": "provod_ustanovochniy\/73.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x10 \u0436\/\u0437",
+        "price": "135.91 \u0440\u0443\u0431.",
+        "quantity": "6209 \u043c",
+        "image": "provod_ustanovochniy\/74.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x10 \u0431\u0435\u043b.",
+        "price": "133.47 \u0440\u0443\u0431.",
+        "quantity": "42 \u043c",
+        "image": "provod_ustanovochniy\/75.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x10 \u0447\u0435\u0440\u043d.",
+        "price": "133.47 \u0440\u0443\u0431.",
+        "quantity": "500 \u043c",
+        "image": "provod_ustanovochniy\/76.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x10 \u0447\u0435\u0440\u043d.",
+        "price": "133.47 \u0440\u0443\u0431.",
+        "quantity": "7884 \u043c",
+        "image": "provod_ustanovochniy\/77.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x10 \u0433\u043e\u043b.",
+        "price": "133.47 \u0440\u0443\u0431.",
+        "quantity": "1414 \u043c",
+        "image": "provod_ustanovochniy\/78.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x10 \u0433\u043e\u043b.",
+        "price": "133.47 \u0440\u0443\u0431.",
+        "quantity": "4601 \u043c",
+        "image": "provod_ustanovochniy\/79.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x10 \u0436\/\u0437",
+        "price": "133.47 \u0440\u0443\u0431.",
+        "quantity": "158 \u043c",
+        "image": "provod_ustanovochniy\/80.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412\u043d\u0433(\u0410)-LS 1x10 \u0433\u043e\u043b.",
+        "price": "126.19 \u0440\u0443\u0431.",
+        "quantity": "12960 \u043c",
+        "image": "provod_ustanovochniy\/81.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412\u043d\u0433(\u0410)-LS 1x10 \u0436\/\u0437",
+        "price": "126.19 \u0440\u0443\u0431.",
+        "quantity": "8502 \u043c",
+        "image": "provod_ustanovochniy\/82.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412\u043d\u0433(\u0410)-LS 1x10 \u0431\u0435\u043b.",
+        "price": "126.19 \u0440\u0443\u0431.",
+        "quantity": "12905 \u043c",
+        "image": "provod_ustanovochniy\/83.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412 1x10 \u0436\/\u0437",
+        "price": "120.66 \u0440\u0443\u0431.",
+        "quantity": "50 \u043c",
+        "image": "provod_ustanovochniy\/84.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412 1x10 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "104.92 \u0440\u0443\u0431.",
+        "quantity": "112 \u043c",
+        "image": "provod_ustanovochniy\/85.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LSLTX 1x6 \u0436\/\u0437",
+        "price": "94.55 \u0440\u0443\u0431.",
+        "quantity": "2200 \u043c",
+        "image": "provod_ustanovochniy\/86.png",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LSLTX 1x6 \u0431\u0435\u043b",
+        "price": "89.20 \u0440\u0443\u0431.",
+        "quantity": "700 \u043c",
+        "image": "provod_ustanovochniy\/87.png",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0433\u043e\u043b. (100\u043c)",
+        "price": "86.98 \u0440\u0443\u0431.",
+        "quantity": "900 \u043c",
+        "image": "provod_ustanovochniy\/88.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0431\u0435\u043b. (100\u043c)",
+        "price": "86.98 \u0440\u0443\u0431.",
+        "quantity": "2700 \u043c",
+        "image": "provod_ustanovochniy\/89.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0431\u0435\u043b. (50\u043c)",
+        "price": "86.98 \u0440\u0443\u0431.",
+        "quantity": "2100 \u043c",
+        "image": "provod_ustanovochniy\/90.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0436\/\u0437 (50\u043c)",
+        "price": "86.98 \u0440\u0443\u0431.",
+        "quantity": "3450 \u043c",
+        "image": "provod_ustanovochniy\/91.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0436\/\u0437 (100\u043c)",
+        "price": "86.98 \u0440\u0443\u0431.",
+        "quantity": "1400 \u043c",
+        "image": "provod_ustanovochniy\/92.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0447\u0435\u0440\u043d. (100\u043c)",
+        "price": "86.08 \u0440\u0443\u0431.",
+        "quantity": "5600 \u043c",
+        "image": "provod_ustanovochniy\/93.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0447\u0435\u0440\u043d. (50\u043c)",
+        "price": "86.08 \u0440\u0443\u0431.",
+        "quantity": "3350 \u043c",
+        "image": "provod_ustanovochniy\/94.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0433\u043e\u043b. (50\u043c)",
+        "price": "86.08 \u0440\u0443\u0431.",
+        "quantity": "3300 \u043c",
+        "image": "provod_ustanovochniy\/95.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0447\u0435\u0440\u043d.",
+        "price": "82.36 \u0440\u0443\u0431.",
+        "quantity": "830 \u043c",
+        "image": "provod_ustanovochniy\/96.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x6 \u0433\u043e\u043b.",
+        "price": "81.58 \u0440\u0443\u0431.",
+        "quantity": "1432 \u043c",
+        "image": "provod_ustanovochniy\/97.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x6 \u0447\u0435\u0440\u043d.",
+        "price": "81.58 \u0440\u0443\u0431.",
+        "quantity": "1197 \u043c",
+        "image": "provod_ustanovochniy\/98.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0436\/\u0437",
+        "price": "80.79 \u0440\u0443\u0431.",
+        "quantity": "435 \u043c",
+        "image": "provod_ustanovochniy\/99.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x6 \u0436\/\u0437",
+        "price": "80.28 \u0440\u0443\u0431.",
+        "quantity": "730 \u043c",
+        "image": "provod_ustanovochniy\/100.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412\u043d\u0433(\u0410)-LS 1x6 \u0431\u0435\u043b.",
+        "price": "78.44 \u0440\u0443\u0431.",
+        "quantity": "190 \u043c",
+        "image": "provod_ustanovochniy\/101.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0413\u0412 1x6 \u043a\u0440\u0430\u0441\u043d.",
+        "price": "78.44 \u0440\u0443\u0431.",
+        "quantity": "113 \u043c",
+        "image": "provod_ustanovochniy\/102.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412\u043d\u0433(\u0410)-LS 1x6 \u0431\u0435\u043b.",
+        "price": "76.20 \u0440\u0443\u0431.",
+        "quantity": "16905 \u043c",
+        "image": "provod_ustanovochniy\/103.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412\u043d\u0433(\u0410)-LS 1x6 \u0436\/\u0437",
+        "price": "75.42 \u0440\u0443\u0431.",
+        "quantity": "31075 \u043c",
+        "image": "provod_ustanovochniy\/104.jpg",
+        "category_id": 8
+    },
+    {
+        "title": "\u041f\u0443\u0412\u043d\u0433(\u0410)-LS 1x6 \u0433\u043e\u043b.",
+        "price": "75.42 \u0440\u0443\u0431.",
+        "quantity": "11035 \u043c",
+        "image": "provod_ustanovochniy\/105.jpg",
+        "category_id": 8
+    }
+]

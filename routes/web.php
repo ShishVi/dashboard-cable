@@ -33,9 +33,12 @@ Route::prefix('user')->group(function(){
 Route::prefix('category')->group(function(){
     Route::get('create-categories-json', [CategoryController::class, 'store']); // запись категорий из json файла
     Route::get('/', [CategoryController::class, 'index'])->name('categories.list');
+    Route::get('create',[CategoryController::class, 'create'])->name('create.category');
+    Route::post('create',[CategoryController::class, 'storeForm'])->name('store-form.category');
     Route::get('edit/{id}',[CategoryController::class, 'edit'])->name('edit.category');
     Route::put('edit/{id}',[CategoryController::class, 'update'])->name('update.category');
     Route::delete('delete/{id}', [CategoryController::class, 'delete'])->name('category.delete');
+    Route::get('delete/image-category/{id}',[CategoryController::class, 'removeImage'])->name('remove-image.category');
 });
 
 

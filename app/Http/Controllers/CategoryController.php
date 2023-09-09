@@ -36,23 +36,45 @@ class CategoryController extends Controller
         return redirect()->intended('/');
     }
 
+    public function create()
+    {
+       return view('admin.category.create-category');
+    }
+
+    public function storeForm(Request $request)
+    {
+        $request->validate([
+            'category' => 'required|min:5|unique:categories',
+            
+        ]);
+
+        $category = Category::create([
+            'category' => $request->category,            
+        ]);
+
+        $category->uploadsImage($request->file('image'));
+
+        return redirect()->route('categories.list');
+    }
+
     public function edit($categoryId)
     {
         return view('admin.category.edit-categories',[
             'category' => Category::find($categoryId),
-            
+
         ]);
     }
 
     public function update(Request $request, $categoryId)
     {
         $request->validate([
-            'category' => 'required|min:5|unique:categories',
-            'slug' => 'required|min:5',
+            'category' => 'required|min:5',
+            
         ]);
 
         $category = Category::find($categoryId);
         $category->update($request->all());
+        $category->uploadsImage($request->file('image'));
 
         return redirect()->route('categories.list');
     }
@@ -62,6 +84,12 @@ class CategoryController extends Controller
         $category = Category::find($categoryId);
         $category->delete();
         
+        return back();
+    }
+
+    public function removeImage($categoryId)
+    {
+        Category::find($categoryId)->deleteImage();
         return back();
     }
         

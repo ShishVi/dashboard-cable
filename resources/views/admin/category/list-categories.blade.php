@@ -5,6 +5,10 @@
 
 @section('content')
 <h3 class="text-center">Каталог товаров</h3>
+<div class="d-flex justify-content-end">
+  <a  role="button" class="btn btn-info btn-sm mb-3" href="{{route('create.category')}}">Создать каталог</a>
+</div>
+
 
 <table class="table table-hover">
     <thead>
@@ -24,7 +28,9 @@
             <td>{{$category->category}}</td>
             <td>{{$category->slug}}</td>
             <td>{{$category->products->count()}}</td>
-            <td>#</td>
+            <td>
+              <img src="{{$category->getImage()}}" alt="{{$category->slug}}" style="height: 50px">              
+            </td>
             <td>
                 <div class="d-flex">
                     <a href="{{route('edit.category', $category->id)}}">

@@ -27,7 +27,7 @@
             <td>#</td>
             <td>
                 <div class="d-flex">
-                    <a href="{{route('edit.product')}}">
+                    <a href="{{route('edit.category', $category->id)}}">
                         <img  width="20" height="20" class="img-profile mx-2" src="{{ asset('assets/img/icon-edit.png') }}">
                     </a>
                     <form action="{{route('category.delete', $category->id)}}" method="POST">

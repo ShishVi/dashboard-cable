@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Category;
 use App\Models\Product;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
@@ -26,8 +27,5 @@ class ProductController extends Controller
         return redirect()->intended('/');
     }
 
-    public function edit()
-    {
-        return view('admin.category.edit-categories');
-    }
+   
 }

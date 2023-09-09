@@ -33,13 +33,15 @@ Route::prefix('user')->group(function(){
 Route::prefix('category')->group(function(){
     Route::get('create-categories-json', [CategoryController::class, 'store']); // запись категорий из json файла
     Route::get('/', [CategoryController::class, 'index'])->name('categories.list');
+    Route::get('edit/{id}',[CategoryController::class, 'edit'])->name('edit.category');
+    Route::put('edit/{id}',[CategoryController::class, 'update'])->name('update.category');
     Route::delete('delete/{id}', [CategoryController::class, 'delete'])->name('category.delete');
 });
 
 
 Route::prefix('product')->group(function(){
     Route::get('create-products-json', [ProductController::class, 'store']); // запись в таблицу products из json файла
-    Route::get('edit',[ProductController::class, 'edit'])->name('edit.product');
+    
     
 });
 

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Category;
+use App\Models\Product;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Storage;
@@ -60,7 +61,9 @@ class CategoryController extends Controller
     public function edit($categoryId)
     {
         return view('admin.category.edit-categories',[
-            'category' => Category::find($categoryId),
+            'category' => Category::find($categoryId),            
+            'products'=> Product::where('category_id', '=', $categoryId),
+
 
         ]);
     }
@@ -81,7 +84,7 @@ class CategoryController extends Controller
 
     public function delete($categoryId)
     {
-        $category = Category::find($categoryId);
+        $category = Category::find($categoryId);        
         $category->delete();
         
         return back();

@@ -58,7 +58,7 @@
                   </tr>
               </thead>
               <tbody>
-                  @foreach ($category->products()->get() as $product)
+                  @foreach ($products = $products->paginate(50) as $product)
                       <tr>
                           <th scope="row">{{ $product->id }}</th>
                           <td>{{ $product->title }}</td>
@@ -70,11 +70,11 @@
                           </td>
                           <td>
                               <div class="d-flex">
-                                  <a href="{{ route('edit.category', $category->id) }}">
+                                  <a href="{{ route('edit.product', $product->id) }}">
                                       <img width="20" height="20" class="img-profile mx-2"
                                           src="{{ asset('assets/img/icon-edit.png') }}">
                                   </a>
-                                  <form action="{{ route('category.delete', $category->id) }}" method="POST">
+                                  <form action="{{route('product.delete', $product->id)}}" method="POST">
                                       @csrf @method('DELETE')
                                       <button class="btn btn-outline-light btn-sm"
                                           onclick='event.preventDefault();
@@ -93,7 +93,33 @@
                   @endforeach
               </tbody>
           </table>
+          
           @endif
+          
+          
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+              @if($products->currentPage() != $products->onFirstPage())
+                <li class="page-item">
+                  <a class="page-link" href="{{$products->previousPageUrl()}}" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                  </a>
+                </li>
+              @endif
+              
+              @for($i=1; $i<= $products->lastPage();$i++)
+                <li @if($i== $products->currentPage()) class="page-item active" @else class="page-item" @endif</li><a class="page-link" href="{{$products->url($i)}}">{{$i}}</a></li>
+              @endfor  
+              @if($products->currentPage() != $products->lastPage())
+              <li>  
+                <a class="page-link" href="{{$products->nextPageUrl()}}" aria-label="Next">
+                  <span aria-hidden="true">&raquo;</span>
+                </a>
+              </li>
+              @endif
+              
+            </ul>
+          </nav>
             
         </div>
     </div>

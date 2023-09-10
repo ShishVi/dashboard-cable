@@ -44,7 +44,10 @@ Route::prefix('category')->group(function(){
 
 Route::prefix('product')->group(function(){
     Route::get('create-products-json', [ProductController::class, 'store']); // запись в таблицу products из json файла
-    
+    Route::get('edit/{id}', [ProductController::class, 'edit'])->name('edit.product');
+    Route::put('edit/{id}', [ProductController::class, 'update'])->name('update.product');
+    Route::get('delete/image-product/{id}', [ProductController::class, 'removeImage'])->name('remove-image.product');
+    Route::delete('delete/{id}', [ProductController::class, 'delete'])->name('product.delete');  
     
 });
 

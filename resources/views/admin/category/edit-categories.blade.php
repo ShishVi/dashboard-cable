@@ -94,7 +94,7 @@
               </tbody>
           </table>
           
-          @endif
+         
           
           
         <nav aria-label="Page navigation example">
@@ -122,5 +122,6 @@
           </nav>
             
         </div>
+        @endif
     </div>
 @endsection
